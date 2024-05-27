@@ -1,0 +1,431 @@
+domain,id,query
+call_taxi_singletask,1,I need a taxi to take me from Primavera to Avalon at 19:15. I would like the contact information for the taxi company.
+call_taxi_singletask,2,I am requesting a taxi to pick me up from Gourmet Burger Kitchen and take me to Corpus Christi after 08:45.
+call_taxi_singletask,3,I am requesting a taxi from Finches Bed and Breakfast to Don Pasquale Pizzeria. I would like to arrive at 1pm to meet my husband for lunch. I would like the contact information for the driver so that I can reach them if necessary. Thank you.
+call_taxi_singletask,4,I am requesting assistance in booking a taxi. I am departing from Sheep's Green and Lammas Land Park Fen Causeway.
+call_taxi_singletask,5,I am requesting a taxi from Holy Trinity Church to Saint John's Chop House. I need to arrive at the chop house by 22:30. Please provide me with the contact number.
+call_taxi_singletask,6,I would like to request a taxi to take me from J Restaurant to Gonville Hotel today. I would like to leave after 21:15. Thank you.
+call_taxi_singletask,7,I need to book a taxi from Saffron Brasserie to Leicester Train Station by 03:30. I would like to arrive at Leicester Train Station by 03:30 as well.
+call_taxi_singletask,8,I would like to request a taxi from Travellers Rest to Autumn House. I would like to arrive at Autumn House by 7:00 AM. I am flexible on the time of departure.
+call_taxi_singletask,9,I would like to book a taxi from Travellers Rest to Finches Bed and Breakfast. I would like to arrive at Finches Bed and Breakfast by 10:00 AM. I do not need the contact number of the taxi company.
+call_taxi_singletask,10,I need to book a taxi from Hakka to La Margherita by 13:45.
+call_taxi_singletask,11,I am requesting a taxi to pick me up from the Lensfield Hotel and take me to the Peking Restaurant. I would like the taxi to arrive by 6:15 AM.
+call_taxi_singletask,12,"I am requesting a taxi from Magdalene College to the Cambridge Punter. I would like to leave after 16:45. I have already found a taxi, so I am no longer in need of assistance."
+call_taxi_singletask,13,I would like to request a taxi to pick me up from Cambridge train station after 9:15 AM. I would like to go to the county folk museum.
+call_taxi_singletask,14,I would like to book a taxi from Saint Johns Chop House to Williams Art and Antiques. The taxi should leave after 3:15 PM. I apologize for the error in my previous request. Thank you for your assistance.
+call_taxi_singletask,15,I am requesting a taxi to pick me up today after 2:45 PM. I will be departing from Nusha and going to Pizza Hut City Centre. Thank you for your help.
+call_taxi_singletask,16,I am requesting a taxi from Thanh Binh to Prezzo. I would like to thank you for your help.
+call_taxi_singletask,17,I am requesting a taxi to be picked up at Jesus Green Outdoor Pool by 14:15 and take me to Cambridge Lodge Restaurant. I would like to know the type of car and the contact number. Thank you.
+call_taxi_singletask,18,"I am requesting a taxi to pick me up at the Pizza Express Fen Ditton and take me to the Avalon before 21:00. I need to be at the Avalon by 21:00, so the taxi will have to arrive slightly earlier to get me to my destination on time. I would like to know the car type and contact number of the taxi."
+call_taxi_singletask,19,I am requesting a taxi to Tandoori Palace. I would like to leave after 16:30. Thank you.
+call_taxi_singletask,20,I am requesting a taxi from the Fitzwilliam Museum to Restaurant One Seven. I need to arrive at Restaurant One Seven by 20:15. Thank you for your help.
+call_taxi_singletask,21,"I am requesting a taxi to go from Lucky Star to Tandoori Place. I need to arrive by 6:30 PM, but I am flexible on the time of departure. Thank you for your help!"
+call_taxi_singletask,22,I am requesting a taxi to be booked for me at 12:15 PM at Charlie Chan. I will be going to Cotto. Thank you very much!
+call_taxi_singletask,23,I am requesting a taxi from Jesus College to Royal Standard. I would like to leave after 10:00. Thank you.
+call_taxi_singletask,24,I am requesting a taxi to take me from the gallery at twelve a high street to whale of a time by 16:15. I would like to know the contact number of the taxi driver.
+call_taxi_singletask,25,I am looking for a taxi that will pick me up at Pizza Hut Fen Ditton after 13:00 and take me to Thanh Binh. I would like the contact number of the taxi service. Thank you.
+call_taxi_singletask,26,I am requesting a taxi to take me to Broughton House Gallery. I will be leaving from Scudmores Punting Co. at 6:00 PM. Thank you for your assistance.
+call_taxi_singletask,27,I am requesting a taxi from Wandlebury Country Park to Tandoori Palace. I would like the taxi to arrive by 23:30. Thank you for your help.
+call_taxi_singletask,28,I am requesting a taxi from Hakka to Loch Fyne after 23:00. I need the car type and contact number.
+call_taxi_singletask,29,I would like to request a taxi from Frankie and Bennys to Cineworld Cinema. I would like to arrive at Cineworld Cinema by 20:45. Thank you.
+call_taxi_singletask,30,I am requesting a taxi from Kings Lynn train station to Fitzbillies restaurant. I would like to leave after 20:00. Thank you.
+call_taxi_singletask,31,"I am requesting a taxi to pick me up at Finches Bed and Breakfast at 9:00 AM. I need to be at Sidney Sussex College by 9:45 AM. I would like to confirm if 45 minutes is enough time to get to the college. If so, can I please have your contact number? Thank you."
+call_taxi_singletask,32,I need a taxi to take me from Peking Restaurant to Royal Standard. I need to arrive by 16:15.
+call_taxi_singletask,33,I need a taxi to pick me up at Cherry Hinton Hall and Grounds at 2:45 pm. I need to go to Avalon. Please provide me with the car type and contact number once the taxi is booked.
+call_taxi_singletask,34,I would like to book a taxi from Maharajah Tandoori Restaurant to Old Schools. I would like to leave at 10:45 and arrive by 10:45.
+call_taxi_singletask,35,I would like to book a taxi from the Museum of Classical Archaeology to London Kings Cross Train Station. I would like to arrive at the train station by 05:30.
+call_taxi_singletask,36,I would like to request a taxi to Shiraz Restaurant. I would like to be picked up from Addenbrookes Hospital after 2:45. Thank you.
+call_taxi_singletask,37,I am requesting a taxi from Prezzo to Pembroke College. I would like to arrive by 13:00.
+call_taxi_singletask,38,I am requesting a taxi to take me from the Cambridge Chop House to the Hotpot. I need the taxi to arrive by 5:30. Thank you.
+call_taxi_singletask,39,I need a taxi from Fitzbillies restaurant to Jesus Green Outdoor Pool after 18:30. Please provide me with the contact number.
+call_taxi_singletask,40,I am requesting the phone number and location of the nearest Red Lobster in the downtown Cambridge area. I would also like a taxi from Darry's Cookhouse and Wine Shop to Restaurant Two Two at 9:00 PM. Thank you for your help!
+call_taxi_singletask,41,I would like to book a taxi from Nusha to La Mimosa. The taxi should arrive by 17:30. Thank you!
+call_taxi_singletask,42,I am requesting a taxi from Avalon to Hamilton Lodge at 19:30. I do not have any other requests. Thank you for your time.
+call_taxi_singletask,43,I am looking for a taxi that departs from Kambar and arrives by 23:15. I would like to go to a Shanghai family restaurant. Thank you for your assistance!
+call_taxi_singletask,44,I need a taxi to pick me up from the Cambridge Belfry at 03:45 and take me to the Cow Pizza Kitchen and Bar.
+call_taxi_singletask,45,I need a taxi from Clare College to Christ's College in Cambridge by 18:00. Please provide me with the contact number and car type for the taxi. Thank you.
+call_taxi_singletask,46,I need a taxi to take me from the Backstreet Bistro to Tang Chinese restaurant. My reservation is at 18:00 and I need to arrive on time.
+call_taxi_singletask,47,I am requesting a taxi to take me to Rajmahal. I will be leaving from Gallery at Twelve A High Street after 3:45. Please provide me with the contact number. Thank you for your help.
+call_taxi_singletask,48,I am requesting a taxi from Cocum to Hobson's House. I would like to leave after 9am. I would like to know the car type and contact number of the taxi.
+call_taxi_singletask,49,I am requesting a taxi from Broxbourne train station to City Stop Restaurant. I need to leave by 20:15. Thank you.
+call_taxi_singletask,50,I need a taxi to take me from Old Schools to the Cambridge Chop House by 9:00 AM. I would like to know the contact number of the taxi company.
+call_taxi_singletask,51,I need a taxi to go from the Cambridge Museum of Technology to the Museum of Classical Archaeology. I would like to leave after 9:45 AM. Thank you for your help.
+call_taxi_singletask,52,I am requesting to book a taxi from Chiquito Restaurant Bar to Saint Barnabas Press Gallery. I would like to arrive at Saint Barnabas Press Gallery by 19:15.
+call_taxi_singletask,53,I am requesting a taxi to take me to The Junction. I would like it to arrive by 18:15 and leave from La Margherita. Thank you.
+call_taxi_singletask,54,I need a taxi to pick me up at Rice Boat at 1:45 PM and take me to Limehouse. I need to arrive in Limehouse by 1:45 PM. Thank you!
+call_taxi_singletask,55,I would like to book a taxi from the junction to Broughton House Gallery. I am available to leave now.
+call_taxi_singletask,56,"I would like to book a taxi from the Hamilton Lodge to Restaurant One Seven. I would like to arrive by 21:30. Thank you for your help, goodbye!"
+call_taxi_singletask,57,I am requesting a taxi to take me to Addenbrookes Hospital. I am grateful for your help. Thank you.
+call_taxi_singletask,58,I need a taxi to pick me up at Curry Prince at 8:15 AM. I would like to arrive at Kettle's Yard anytime after 8:15 AM. Please notify me of the car type and the contact number. Thank you.
+call_taxi_singletask,59,I am requesting a taxi from Sheep's Green and Lammas Land Park Fen Causeway to Curry King. I need to arrive by 7:15 AM. Please let me know when the taxi will pick me up and if that will get me to my destination on time. Thank you.
+call_taxi_singletask,60,I would like to book a taxi from India House to Whale of a time. The taxi should depart from India House and should arrive by 24:00. I do not need any additional assistance.
+call_taxi_singletask,61,"I need a taxi that can take me to Oak Bistro by 06:00. I don't care about the car type, but I need the contact number. I am currently at Pizza Hut City Centre."
+call_taxi_singletask,62,I would like to book a taxi at 05:45 from Bishops Stortford Train Station to Cambridge Train Station. I would like to know the car type and contact number.
+call_taxi_singletask,63,"I need a taxi to arrive at Nandos, City Center by 16:45. I will be going to Parkside Police Station to turn myself in."
+call_taxi_singletask,64,I need to book a taxi from Vue Cinema to Williams Art and Antiques after 24:30.
+call_taxi_singletask,65,I need a taxi to take me to Milton Country Park at 24:00. I am departing from Anatolia. I do not need any further assistance.
+call_taxi_singletask,66,I would like to book a taxi from Mahal of Cambridge to Carolina Bed and Breakfast. The taxi should arrive by 13:45. I do not need anything else. Thank you!
+call_taxi_singletask,67,I need a taxi that leaves from Kettle's Yard after 15:15 and takes me to Yu Garden.
+call_taxi_singletask,68,"I need a taxi from Castle Galleries to Anatolia, and I need to arrive there by 20:45."
+call_taxi_singletask,69,I need to book a taxi from the junction to the regency gallery. I need to be picked up at the junction by 04:00.
+call_taxi_singletask,70,I would like to book a taxi from Saint John's College to Club Salsa. I would like to leave after 1:30 AM and arrive by 2:30 AM. I apologize for the confusion. Thank you!
+call_taxi_singletask,71,I need a taxi to be picked up from Don Pasquale Pizzeria at no later than 15:30 and taken to Holy Trinity Church. I would like to know the car type and contact number once the booking is made.
+call_taxi_singletask,72,I need a taxi from Grafton to Arbury Lodge Guesthouse. I would like to leave after 4:15 and arrive by 7:00. Please provide me with the contact number.
+call_taxi_singletask,73,I need a taxi from London Liverpool Street Train Station to Gourmet Burger Kitchen. I need to leave after 12:30. Please provide me with all the necessary details.
+call_taxi_singletask,74,I am requesting a taxi from La Margarita to Riverboat Georgina. I would like to arrive by 17:15.
+call_taxi_singletask,75,I am currently at Club Salsa and would like to book a taxi to leave after 6:15 PM. I need to go to the Cambridge Arts Theatre. Thank you for your help.
+call_taxi_singletask,76,I am requesting a taxi to leave the Leverton House after 08:00 and go to the Cambridge Lodge Restaurant.
+call_taxi_singletask,77,I am requesting a taxi to take me from Broughton House Gallery to Downing College. I need to arrive at Downing College by 16:30. I would appreciate it if you could send a taxi as soon as possible. Thank you!
+call_taxi_singletask,78,I am requesting a taxi to take me from Gonville Hotel to Varsity Restaurant at 12:00.
+call_taxi_singletask,79,I am requesting a taxi from Nandos City Centre to the Castle Galleries after 4:30 pm.
+call_taxi_singletask,80,I am requesting a taxi to take me from Cambridge Arts Theatre to Riverside Brasserie. I would like to arrive at Riverside Brasserie by 19:30. Thank you.
+call_taxi_singletask,81,I am requesting a taxi to take me from Saint Catherine's College to Rosa's Bed and Breakfast. I would like to leave after 13:00. I will be looking out for a red Ford. Thank you.
+call_taxi_singletask,82,I am requesting a taxi from Nusha to Thanh Binh at 6:15 PM. That is all I need. Thank you.
+call_taxi_singletask,83,I am requesting a taxi from Hughes Hall to Ali Baba at 2:45.
+call_taxi_singletask,84,I would like to reserve a taxi from Saint Catherine's College to Loch Fyne. I would like to arrive by 1:15.
+call_taxi_singletask,85,I would like to book a taxi from Stevenage Train Station to Cineworld Cinema. The taxi should arrive by 12:15.
+call_taxi_singletask,86,I need a taxi to pick me up at the Peterborough Train Station at 18:45 and take me to the Good Luck Chinese food takeaway. I would like to know the contact number for the taxi.
+call_taxi_singletask,87,I need a taxi to De Luca Cucina and Bar. I need to arrive by 15:30. Please send a taxi as soon as possible.
+call_taxi_singletask,88,I would like to request a taxi to pick me up after 21:00 from Frankie and Bennys and take me to Little Saint Mary's Church. I appreciate your help.
+call_taxi_singletask,89,I need a taxi from Peking Restaurant to Maharajah Tandoori Restaurant. I need to arrive at 10:45. I would prefer a blue Audi.
+call_taxi_singletask,90,I would like to book a taxi from Dojo Noodle Bar to the Ugly Duckling. The taxi needs to arrive by 19:30.
+call_taxi_singletask,91,I would like to request a taxi to take me to Churchill College. I would like to be picked up from the Varsity Restaurant after 17:00. Thank you.
+call_taxi_singletask,92,I am requesting a taxi from Little Saint Mary's Church to Trinity College. I need to leave after 12:45 AM. I would also like the contact number of the taxi company. Thank you.
+call_taxi_singletask,93,I need to book a taxi after 20:30 to go from Ali Baba to Pipasha Restaurant. I would like to know the contact number and car type of the taxi. I do not have any other requests.
+call_taxi_singletask,94,I would like to book a taxi from Cambridge Artworks to Lynne Strover Gallery. I would like to leave after 18:00 and would appreciate the contact number for the taxi company.
+call_taxi_singletask,95,I would like to book a taxi. I would like to leave from the Fitzwilliam Museum and arrive at Royal Standard by 07:45. I apologize for the previous information.
+call_taxi_singletask,96,I am requesting a taxi to depart from the Cambridge Punter after 8:45 to go to Funky Fun House. I do not require any additional services.
+call_taxi_singletask,97,I need a taxi to pick me up at Saffron Brasserie after 1:30 PM and take me to Whipple Museum of the History of Science.
+call_taxi_singletask,98,"I am requesting a taxi to depart from Kings Lynn Train Station and go to Cherry Hinton Water Play after 21:15. I apologize for the change in request, but I need to depart from Backstreet Bistro instead."
+call_taxi_singletask,99,I need a taxi to go to Tang Chinese from Whale of a Time. I need to arrive by 5:15 PM. I do not have any other requests at this time. Thank you for booking my taxi. Goodbye.
+call_taxi_singletask,100,I need a taxi from the Gardenia to Saint Barnabas Press Gallery by 2:15 PM. I would like to know the contact number for the taxi service.
+call_taxi_singletask,101,I need a taxi to arrive at Primavera by 13:15. I am departing from Curry Queen.
+call_taxi_singletask,102,I would like to book a taxi from Jesus College to Norwich train station after 2:30 PM today.
+call_taxi_singletask,103,I would like to request a taxi from Cherry Hinton Village Centre to La Raza after 10:15. Please provide me with the contact number and car type.
+call_taxi_singletask,104,I would like to book a taxi that will depart from Rice Boat at 9:30 AM. The taxi should go to Parkside Pools. Thank you.
+call_taxi_singletask,105,I need a taxi to be picked up at Holy Trinity Church after 5:45 AM today and taken to Byard Art. I do not need anything else. Thank you for your assistance.
+call_taxi_singletask,106,I would like to request a taxi to pick me up at Carolina Bed and Breakfast after 24:00. I would like to go to Lensfield Hotel. Please provide me with the contact number of the taxi company. Thank you.
+call_taxi_singletask,107,I am looking to book a taxi from Archway House to Cocum. I would like the taxi to depart after 2:30 pm. I do not need any additional assistance.
+call_taxi_singletask,108,I am requesting a taxi to pick me up at the Museum of Classical Archaeology after 10:30 AM and take me to Whale of a Time.
+call_taxi_singletask,109,I need to book a taxi from Royal Spice to Nandos at 17:45. I would like the contact number of the taxi company in case of any changes. I do not need any additional information or services.
+call_taxi_singletask,110,I need to book a taxi from clown's cafe to the hotpot by 23:00. I would also like to have the contact number for the yellow BMW taxi.
+call_taxi_singletask,111,I am requesting a taxi to take me from All Saints Church to A and B Guest House. I need to arrive by 3:45 AM.
+call_taxi_singletask,112,I am requesting a taxi to take me from the junction to the gallery at twelve high street by 4:00 pm. I am departing from the junction and going to the gallery at twelve. I have no further requests.
+call_taxi_singletask,113,I am requesting a taxi from Clare College to Sheep's Green and Lammas Land Park Fen Causeway. I would like the taxi to arrive by 04:00. Thank you.
+call_taxi_singletask,114,I would like to book a taxi from Pizza Hut Cherry Hinton and arrive at Kohinoor by 1:30 AM. I need to book this taxi so I can get to Kohinoor by 1:30 AM.
+call_taxi_singletask,115,I would like to book a taxi to depart from the Museum of Classical Archaeology at 12:45 and be taken to the Kirkwood House.
+call_taxi_singletask,116,I am requesting a taxi to take me from London Kings Cross Train Station to London Liverpool Street Train Station. I would like to depart no later than 17:45. Please provide me with a contact number so that I can confirm the details of my trip. Thank you.
+call_taxi_singletask,117,I would like to book a taxi to arrive at the City Stop Restaurant by 12:45. I will be departing from Jinling Noodle Bar. I need the contact number and car type of the taxi.
+call_taxi_singletask,118,I am requesting a taxi to pick me up at The Cambridge Belfry after 21:25 and take me to The Gardenia. I would also like to have the contact number of the taxi driver.
+call_taxi_singletask,119,I need a taxi to pick me up from the Golden Curry at 9:15 am and take me to the Cineworld Cinema.
+call_taxi_singletask,120,I am requesting a taxi to depart from Anatolia after 03:00 and arrive at the Cambridge Corn Exchange. Thank you.
+call_taxi_singletask,121,I am requesting a taxi to pick me up at 18:15 from Aylesbray Lodge Guest House and take me to Meghna. I would like to have the contact number of the taxi driver for future reference. Thank you.
+call_taxi_singletask,122,I need a taxi from Leverton House to Express by Holiday Inn Cambridge by 6:45 AM.
+call_taxi_singletask,123,I am requesting a taxi from Ely to Sidney Sussex College by 14:15. I would like to book a taxi as soon as possible. Thank you.
+call_taxi_singletask,124,I need a taxi to be picked up from lynne strover gallery and go to The Junction. I need to arrive at The Junction by 20:15. Please provide me with the contact number.
+call_taxi_singletask,125,I am requesting a taxi to leave from Worth House after 11:15 and go to Kohinoor. Thank you.
+call_taxi_singletask,126,I am requesting a taxi to leave Vue Cinema and arrive at Clowns Cafe by 11:30. I do not need any additional services. Thank you for your time.
+call_taxi_singletask,127,I would like to reserve a taxi to Jinling Noodle Bar by 24:15. I will be leaving from Pembroke College. Thank you for your help!
+call_taxi_singletask,128,I am requesting to book a taxi from Emmanuel College to Churchill College. I would like the taxi to arrive anytime after 21:30. Thank you.
+call_taxi_singletask,129,I would like to book a taxi after 14:00 from Cityroomz to The Rice House. I am requesting a taxi for one person.
+call_taxi_singletask,130,I would like to book a taxi departing from City Centre North B&B and arriving at The Place by 8:00.
+call_taxi_singletask,131,I need to book a taxi from Mumford Theatre to Darry's Cookhouse and Wine Shop. I need to arrive by 24:45.
+call_taxi_singletask,132,I would like to book a taxi from Alexander Bed and Breakfast to Junction after 2:45. I do not have any other requests.
+call_taxi_singletask,133,I am requesting a taxi to pick me up from Bedouin at 16:30 and take me to London Liverpool Street Train Station. I would like to request a taxi receipt in case of any problems. I do not need a taxi for the return trip.
+call_taxi_singletask,134,"I am requesting a taxi from Nusha to Limehouse. I need to arrive by 7:15. I would like the contact number for the Skoda taxi, please. Thank you for your help."
+call_taxi_singletask,135,"I am requesting a taxi to take me to Cambridge Punter. I am currently at an unknown location. I apologize for the confusion in my previous request. I need a taxi going to Cambridge Punter, not taking me from Cambridge Punter."
+call_taxi_singletask,136,I need help getting to Ely train station by 12:00. I am currently in Eraina. I do not need any further assistance at this time.
+call_taxi_singletask,137,I would like to book a taxi that departs from the Missing Sock after 05:45 and goes to Great Saint Mary's Church.
+call_taxi_singletask,138,I would like to request a taxi to take me from Cambridge Museum of Technology to Williams Art and Antiques. I would like to leave after 15:30. Thank you for handling this for me.
+call_taxi_singletask,139,I am requesting a taxi to depart from A and B Guest House and arrive at Park Side Pools by 19:15.
+call_taxi_singletask,140,I would like to book a taxi to take me from Pizza Express Fen Ditton to ADC Theatre at 19:30. I do not need anything else. Thank you!
+call_taxi_singletask,141,I would like to book a taxi to Pembroke College this evening. I need to leave from Primavera at 9:15 pm. Please provide me with the car type and contact number.
+call_taxi_singletask,142,I would like to book a taxi from Parkside Police Station to Lynne Stover Gallery. I would like to depart after 22:15. Please provide me with the contact number and car type for the reservation. Thank you.
+call_taxi_singletask,143,I am requesting a taxi to arrive by 17:00 to take me to Queens' College. I am departing from Ask. I am all set and do not need any further assistance.
+call_taxi_singletask,144,I am requesting a taxi to leave after 07:45 from Primavera to Bangkok City.
+call_taxi_singletask,145,I would like to book a taxi from Parkside Pools to Pizza Hut Cherry Hinton after 02:00.
+call_taxi_singletask,146,I would like to request a taxi from Yippee Noodle Bar to Ballare. The taxi should depart after 11:30. Thank you.
+call_taxi_singletask,147,I need a taxi to pick me up at Curry King at 20:00 and take me to Lime House. Please let me know what type of car will pick me up and give me the contact number of the driver.
+call_taxi_singletask,148,"I am requesting a taxi from London Kings Cross train station to the Gonville Hotel. I need to arrive by 23:00. If you are unable to help me, that is okay. Thank you for your time."
+call_taxi_singletask,149,I need a taxi from Kohinoor to Allenbell after 07:45. Thank you for your help.
+call_taxi_singletask,150,I would like to book a taxi from the Golden Wok to the Golden Curry. I would like the taxi to leave after 09:00.
+call_taxi_singletask,151,"I would like to request a taxi to take me to Jesus Green Outdoor Pool today, just after 06:15. I am leaving from La Raza. Please send me the taxi's contact number and car type."
+call_taxi_singletask,152,I need a taxi to pick me up at The Place by 7:30 AM and take me to Thanh Binh.
+call_taxi_singletask,153,I would like to request a taxi to pick me up by 16:30 and take me to Nusha Carolina bed and Breakfast. I would also like to know the contact number and car type of the taxi.
+call_taxi_singletask,154,I am requesting a taxi to pick me up at the Hamilton Lodge and take me to the funky fun house. I would like to leave after 21:00. Thank you for your time.
+call_taxi_singletask,155,I need a taxi to pick me up at London Kings Cross train station and take me to Saigon City. I would like to leave by 05:00.
+call_taxi_singletask,156,I need to book a taxi from Little Seoul to Cambridge Corn Exchange. I need to arrive by 11:45.
+call_taxi_singletask,157,I am requesting a taxi from Aylesbray Lodge Guest House to the London Liverpool Street Train Station. I need to arrive at the station by 1:30 PM. I would appreciate it if you could book the taxi as soon as possible. Thank you for your help.
+call_taxi_singletask,158,I would like to book a taxi from the River Bar to Hughes Hall. I would like to arrive by 19:00 if possible. I do not have any other requests.
+call_taxi_singletask,159,I am requesting a taxi from Alpha-Milton Guest House to Cambridge University Botanic Gardens. I would like to arrive by 19:00. Please let me know when the taxi will be arriving at Alpha-Milton. Thank you.
+call_taxi_singletask,160,I need a taxi to be picked up from Don Pasquale Pizzeria and taken to Cambridge Museum of Technology by 3:45. Please provide me with the contact number and vehicle type to expect.
+call_taxi_singletask,161,I need a taxi from Bangkok City to Hotel du Vin and Bistro. I need to arrive by 15:15. Please book the taxi for me and provide me with the contact number. Thank you.
+call_taxi_singletask,162,I am requesting a taxi to take me from Tang Chinese to the Lensfield Hotel. I would like to leave after 5:00 PM. Thank you for your help and have a great day.
+call_taxi_singletask,163,I am requesting a taxi to be picked up at the Holy Trinity Church and arrive at Cocum by 3:15.
+call_taxi_singletask,164,I would like to request a taxi from the Bloomsbury Restaurant to the Good Luck Chinese Food Takeaway. I would like to be picked up after 3:15 pm. Thank you.
+call_taxi_singletask,165,I am requesting a taxi to pick me up at the Parkside Police Station and take me to Little Seoul. I would like to arrive by 6:30.
+call_taxi_singletask,166,I would like to book a taxi from Bangkok City to Prezzo. I need to leave by 19:30. I would like to know what the car type is. Thank you for your help.
+call_taxi_singletask,167,I am requesting a taxi from Sala Thong to Abbey Pool and Astroturf Pitch. I need to arrive by 16:45. Thank you for your help.
+call_taxi_singletask,168,I would like to book a taxi that departs from The Missing Sock and arrives at Da Vinci Pizzeria by 02:00.
+call_taxi_singletask,169,I need to book a taxi from Kirkwood House to Efes Restaurant. I need to arrive by 21:00. I would like to know the type of car that will be picking me up.
+call_taxi_singletask,170,I am requesting a taxi to take me from Lovell Lodge to Kambang. I would like to leave after 10:45. I do not have any other specific requests.
+call_taxi_singletask,171,I am requesting a taxi to pick me up from Wagamama at 6:45 AM to go to ADC Theatre. I need to arrive at the theatre by 7:00 AM for a meeting.
+call_taxi_singletask,172,I am requesting a taxi to take me to Camboats Kings Hedges Learner Pool today. I would like to arrive by 2:45 pm. Thank you for your help.
+call_taxi_singletask,173,"I would like to book a taxi. I would like to be picked up from Allenbell after 16:45 and taken to Mumford Theatre. As long as I am picked up after 16:45, I will have plenty of time to arrive."
+call_taxi_singletask,174,I would like to book a taxi from Panahar to Cambridge Arts Theatre. I need to arrive by 3:00 PM. Please let me know when I can expect the taxi. Thank you.
+call_taxi_singletask,175,I am requesting a taxi leaving from Archway House to Saigon City after 10:45.
+call_taxi_singletask,176,I need a taxi from Avalon to the Fitzwilliam Museum after 20:00. Please provide me with the contact number. Thank you!
+call_taxi_singletask,177,I need a taxi departing from the Huntington Marriott Hotel and arriving at the Saint Barnabas Press Gallery by 20:15. I will be looking for the taxi to arrive by that time.
+call_taxi_singletask,178,I would like to request a taxi to Charlie Chan. I would like to be picked up from 6742 North Ridgewood Court after 14:15. I do not have a preference for the type of taxi. I am leaving from Kings Hedges Learner Pool. Thank you!
+call_taxi_singletask,179,I would like to request a taxi from La Margherita to Jesus Green Outdoor Pool. I would like to leave after 23:00. Thank you.
+call_taxi_singletask,180,I am requesting a taxi from the beautiful Saint Catherine's College to Pizza Hut Fen Ditton. I would like the taxi to arrive anytime after 11:45 AM. Thank you.
+call_taxi_singletask,181,I am requesting a taxi to Curry Garden. I need it to arrive by 10:45 and it will be leaving from Lan Hong House. Thank you for your help.
+call_taxi_singletask,182,I am requesting a taxi to pick me up at The Junction at 3:30 pm and take me to Kambar. I do not have any other requests. Thank you and have a great night!
+call_taxi_singletask,183,"I am hurt and need to go to the hospital. I am unable to get there on my own, so I requested a taxi. However, I realized that I only needed the postcode for the hospital, so I canceled the taxi request. Thank you for your help."
+call_taxi_singletask,184,I need a taxi departing from Tang Chinese to Downing College. I need to arrive by 7:30 PM.
+call_taxi_singletask,185,I am requesting a taxi from Alexander Bed and Breakfast to Lan Hong House. I need to be there by 7:00. Thank you for your help.
+call_taxi_singletask,186,"I am requesting for directions to Gandhi from Golden Wok. I need to be there by 9:15 AM. I originally said I was departing from Golden Wok, but I actually need to depart from Thanh Binh. Thank you for your help."
+call_taxi_singletask,187,I would like to book a taxi from Jinling Noodle Bar to Tenpin. I would like the taxi to arrive at Tenpin by 21:45. I do not need anything else.
+call_taxi_singletask,188,I need a taxi to the Ugly Duckling by 19:15. I will be departing from Parkside Police Station. I do not need to make any stops.
+call_taxi_singletask,189,I would like to request a taxi from Peterborough train station to Riverboat Georgina after 5:15 PM.
+call_taxi_singletask,190,I would like to book a taxi to take me from Saint Johns Chop House in downtown Cambridge to Riverside Brasserie after 11:15. Please provide me with the car type and contact number when you book the taxi.
+call_taxi_singletask,191,I am requesting a taxi from Wandlebury Country Park to Huntingdon Marriott Hotel. I need to arrive by 11:45.
+call_taxi_singletask,192,"Hi, I am Thanh Binh. I am requesting a taxi to take me to Jesus College after 9:45 PM. I am currently at the hotel next to the Shell gas station and Cambridge College on 4455 Woodbridge Road. Thank you for your help."
+call_taxi_singletask,193,I am requesting to book a taxi from Christ's College to Lensfield Hotel. I need to leave after 21:30. Thank you for your help.
+call_taxi_singletask,194,I am looking for a taxi that can take me from Backstreet Bistro to Cineworld Cinema. I need to leave after 2:15 PM and arrive by 3:00 PM. I would like to know the car type and contact number of the taxi. Thank you for your help.
+call_taxi_singletask,195,I am requesting a taxi to arrive by 2:15 PM to take me to Sesame Restaurant and Bar. I am leaving from the missing sock.
+call_taxi_singletask,196,I am requesting a taxi from Broxbourne train station to India House. I need to arrive at India House by 23:30. Thank you for your help.
+call_taxi_singletask,197,I am requesting a taxi service from Rajmahal to Worth House. I would like the taxi to arrive at Worth House by 16:15.
+call_taxi_singletask,198,I am requesting a taxi to take me from Aylesbray Lodge Guest House to Finches Bed and Breakfast. I would like to depart anytime after 11:45. Please provide me with the car type and contact information. Thank you!
+call_taxi_singletask,199,I would like to book a taxi from the Grafton Hotel Restaurant to Home From Home. I would like the taxi to leave after 22:30 and I don't care when I arrive. Thank you.
+call_taxi_singletask,200,I am requesting a taxi to take me from Sheep's green and lammas land park fen causeway to Lynne Stover Gallery. I would like to arrive by 16:00.
+call_taxi_singletask,201,I need a taxi to be picked up at Holy Trinity Church at 8:15 AM to go to the Golden House. I would like to know the car type and contact number of the taxi company.
+call_taxi_singletask,202,I would like to request a taxi from Meze Bar Restaurant to Eraina. I would prefer to leave after 6:45 AM. Thank you for your help!
+call_taxi_singletask,203,I would like to book a taxi from Old Schools to Royal Standard. I would like the taxi to leave after 9:15 AM. I would also like the contact number of the taxi driver.
+call_taxi_singletask,204,I am requesting a taxi from the Good Luck Chinese Food Takeaway to the Riverside Brasserie. I need to arrive by 12:45.
+call_taxi_singletask,205,I need a taxi from Frankie and Bennys to Stevenage train station. I need to arrive by 23:30. Please give me the contact number.
+call_taxi_singletask,206,I am requesting a taxi to take me from Birmingham New Street Train Station to Express by Holiday Inn Cambridge. I will be arriving at the station after 14:45. The taxi should pick me up from the station and take me to the hotel. Thank you.
+call_taxi_singletask,207,I need a taxi to be picked up at Arbury Lodge Guesthouse at 12:45 to take me to Ruskin Gallery.
+call_taxi_singletask,208,I would like to book a taxi from Abbey Pool and Astroturf Pitch to King's College after 11:45. I would like to know the car type and its contact number.
+call_taxi_singletask,209,I am requesting a taxi to Club Salsa. I am currently at La Tasca and need to be at Club Salsa by 6:00. I do not have any other requests.
+call_taxi_singletask,210,I would like to request a taxi to pick me up from the Nirala after 16:45 and take me to Jesus College. I would also like to have their contact number.
+call_taxi_singletask,211,I am requesting for a taxi to pick me up from Wandlebury Country Park and bring me to Kohinoor by 12:45.
+call_taxi_singletask,212,I need a taxi that departs from Hobson's house at 13:45 and arrives at The Missing Sock.
+call_taxi_singletask,213,I would like to book a taxi from Lan Hong House to Great Saint Mary's Church. I would like to be picked up as soon as possible and arrive at my destination by 20:15. I do not need any additional services.
+call_taxi_singletask,214,I am at Kettle's Yard and need a taxi to pick me up by 19:30. I want to go to Castle Galleries. I am available after 19:30. Please provide me with the contact number. I do not need any further assistance.
+call_taxi_singletask,215,I am requesting to book a taxi from Kettle's Yard to Old Schools. I would like the taxi to arrive by 19:30. I would also like to know the car type and the contact number of the taxi. Thank you for your help.
+call_taxi_singletask,216,I would like to request a taxi from Hotel du Vin and Bistro to Golden House. I would like to arrive at Golden House by 7:00 AM. Thank you for your help.
+call_taxi_singletask,217,"I am looking for Addenbrookes Hospital. I would like to know the phone number, address, and postcode. I would also like to know if you have a driver who can take me there. However, my friend has offered to give me a lift, so I no longer need a driver. Thank you for your help."
+call_taxi_singletask,218,I am at Sidney Sussex College and I need to book a taxi to take me to Ely Train Station. I need to arrive by 17:15.
+call_taxi_singletask,219,I am requesting a taxi to go from Bloomsbury Restaurant to Hobsons House after 11:45. Please provide me with the details of the taxi. Thank you for your help.
+call_taxi_singletask,220,I am requesting a taxi from Warkworth House to Rosa's Bed and Breakfast. I would like to arrive by 3pm. Thank you for your help today.
+call_taxi_singletask,221,I would like to request a taxi from Whale of a Time to Citi Stop Restaurant after 22:45. I do not have any other requests.
+call_taxi_singletask,222,I need a taxi to pick me up from Saigon City and arrive at the Huntington Marriott Hotel by 15:45. Please let me know the contact number of the Audi.
+call_taxi_singletask,223,I am requesting a taxi from Ashley Hotel to Bridge Guest House. I would like to leave after 19:15. The time of arrival does not matter.
+call_taxi_singletask,224,I would like to book a taxi from Leverton House to Jesus College by 7:30 AM.
+call_taxi_singletask,225,I need a taxi to depart from the Gardenia after 6:30 PM and go to the Slug and Lettuce.
+call_taxi_singletask,226,I am requesting a taxi from Kohinoor to Saint Barnabas Press Gallery. I would like to leave after 11:00 AM.
+call_taxi_singletask,227,I would like to request a taxi from Kings Lynn station at 5:15 pm to HK Fusion. I will not need any additional stops. Thank you.
+call_taxi_singletask,228,I am requesting a taxi from The Man on the Moon to Bangkok City. I need to leave after 5:00. Thank you.
+call_taxi_singletask,229,I need to book a taxi to be picked up from The Cambridge Corn Exchange after 18:15 and be dropped off at Bridge Guest House.
+call_taxi_singletask,230,I am requesting a taxi from Cambridge Lodge Restaurant to Cambridge Book and Print Gallery. I need to arrive no later than 10:00 AM. Thank you.
+call_taxi_singletask,231,I need to book a taxi to go from Da Vinci Pizzeria to Cambridge Road Church of Christ by 1:45.
+call_taxi_singletask,232,I am requesting a taxi from London Liverpool Street to Club Salsa. I can leave any time after 01:30. I would like to know the car type I can expect and the contact number.
+call_taxi_singletask,233,I would like to request a taxi to be picked up from Holy Trinity Church after 02:30 and take me to Curry King. Thank you for your help.
+call_taxi_singletask,234,I am currently at the El Shaddai and need to get to Cocum by 21:15. I would like to request a taxi. Thank you.
+call_taxi_singletask,235,I would like to request a taxi to pick me up at the Whipple Museum of the History of Science at 21:00 and take me to Restaurant Two Two. I would like to arrive at Restaurant Two Two by 21:00.
+call_taxi_singletask,236,I would like to book a taxi from Prezzo to Gandhi. I would like to be picked up after 16:30.
+call_taxi_singletask,237,I am requesting a taxi to Alexander Bed and Breakfast. I need to be there by 7:30 AM. I am leaving from Abbey Pool and Astroturf Pitch. I would like to know the contact number of the taxi service.
+call_taxi_singletask,238,I need a taxi from Bedouin to Stansted Airport Train Station after 8pm. I would like the contact number for the taxi service. Thank you.
+call_taxi_singletask,239,I would like to book a taxi from Prezzo to Corpus Christi. I would like to leave after 3:30 PM. Please let me know what type of car the taxi is and their contact number. Thank you for your help!
+call_taxi_singletask,240,I need a taxi by 23:30 to go to the People's Portraits exhibition at Girton College. I would like the contact number and car type. My name is Little Seoul. Thank you!
+call_taxi_singletask,241,I am requesting a taxi to pick me up after 4:15 PM from the Scott Polar Museum and take me to the Hotel du Vin and Bistro. I would like to know the car type and contact number of the taxi. Thank you for your help.
+call_taxi_singletask,242,I am requesting a taxi to take me from the Fez Club to the Cambridge Punter after 05:30. I would also like to get the contact number for the taxi.
+call_taxi_singletask,243,I am requesting a taxi at 4:00 AM from the Cambridge Lodge Restaurant to Birmingham New Street Train Station.
+call_taxi_singletask,244,I need a taxi to pick me up from The Good Luck Chinese Food Takeaway and take me to Alpha-Milton Guest House. I need to be there by 18:15.
+call_taxi_singletask,245,"I would like to book a taxi from Leverton House to The Ghandi. I need to arrive at The Ghandi by 01:45, so please pick me up at whatever time is necessary. Thank you."
+call_taxi_singletask,246,I need a taxi to arrive at 5:45 pm at the restaurant two two. I need to leave from the lynne strover gallery.
+call_taxi_singletask,247,I need a taxi to pick me up from Ali Baba by 07:00 AM and take me to Wandlebury Country Park. I would appreciate it if you could provide me with the contact number. Thank you very much.
+call_taxi_singletask,248,I need a taxi from Emmanuel College to Finches Bed and Breakfast. I would like to arrive by 22:30. I don't have any preferences for the taxi company or the type of taxi.
+call_taxi_singletask,249,I need a taxi that can take me from the junction to the hotspot by 05:15. I would like to know the contact number and car type of the taxi.
+call_taxi_singletask,250,I am currently at Jesus Green Outdoor Pool and need to get to Bangkok City by 12:00 today. I would like to know if you can help me with that.
+call_taxi_singletask,251,I need a taxi to take me to Efes Restaurant. I would like to arrive by 9:30pm. I will be leaving from Avalon. I do not need any additional assistance.
+call_taxi_singletask,252,I need a taxi to pick me up at Curry Garden and take me to Nandos by 4:45.
+call_taxi_singletask,253,I would like to request a taxi to pick me up after 13:00 today from the Rice House. I would like to be picked up as soon as possible after 13:00. Thank you for your time.
+call_taxi_singletask,254,I am requesting a taxi to pick me up at Nandos City Centre at 04:00. I need to go to Warworth House.
+call_taxi_singletask,255,I would like to book a taxi to go from the Cambridge Punter to the Yippee Noodle Bar after 12:45. I do not have any other requests.
+call_taxi_singletask,256,I would like to book a taxi from Hamilton Lodge to Clare College at 15:00. Please provide me with the car and contact number for the taxi. Thank you for your help.
+call_taxi_singletask,257,I would like to reserve a taxi from Rosa's Bed and Breakfast to Cityroomz. I would like to arrive by 23:00. Please provide me with the contact number. Thank you for your help.
+call_taxi_singletask,258,I need a taxi to be picked up from Bangkok City and arrive at Broxbourne Train Station by 21:15. Please provide me with the contact number and type of car.
+call_taxi_singletask,259,"I need a taxi to get to the Scott Polar Museum by 2:15 AM. I am leaving graffiti. No, that is all. Thank you!"
+call_taxi_singletask,260,I am requesting a taxi to pick me up at City Stop Restaurant by 10:30 AM and take me to Midsummer House Restaurant. Thank you!
+call_taxi_singletask,261,I am requesting a taxi from Funky Funhouse to Nusha. I would like to arrive at Nusha by 4:30. Thank you for your help.
+call_taxi_singletask,262,I am requesting a taxi to pick me up at Royal Standard and take me to Maharajah Tandoori Restaurant. I need to leave after 2:30 PM.
+call_taxi_singletask,263,I am requesting a taxi from Sidney Sussex College to Pizza Express Fen Ditton. I would like to leave after 11:45.
+call_taxi_singletask,264,I am requesting to book a taxi from Little Saint Mary's Church to Camboats. I need to arrive by 13:15. Thank you for your help.
+call_taxi_singletask,265,I would like to book a taxi from the Cambridge book and print gallery to the Bloomsbury restaurant after 10:00. I would like to know the contact number and car type of the taxi once it is booked. I do not need any further assistance.
+call_taxi_singletask,266,I am requesting a taxi to be picked up from the Ruskin Gallery and arrive at the Broughton House Gallery by 6:15.
+call_taxi_singletask,267,I need a taxi to pick me up at Ashley Hotel by 18:15 and take me to Cherry Hinton Village Centre. I do not need anything else.
+call_taxi_singletask,268,I would like to book a taxi to go from Rajmahal to Holy Trinity Church. I would like the taxi to arrive by 23:00. Thank you for your time.
+call_taxi_singletask,269,I am requesting a taxi that leaves from Funky Fun House and arrives at Curry Garden by 06:15.
+call_taxi_singletask,270,"Hi, I am requesting a taxi to Queens' College. I am departing from the Oak Bistro and would like to leave after 5pm."
+call_taxi_singletask,271,I need a taxi to Darry's Cookhouse and Wine Shop after 6:00 AM. I would like to be picked up from Cambridge Contemporary Art.
+call_taxi_singletask,272,I am requesting a taxi to pick me up at Chiquito Restaurant Bar after 22:30 and take me to Queens' College.
+call_taxi_singletask,273,"I need to book a taxi that will arrive by 18:15 to take me to India House, Autumn house. I would like to know the car type and contact number of the taxi."
+call_taxi_singletask,274,I am requesting a taxi to pick me up at Whale of a Time after 16:00 today. My destination is Soul Tree Nightclub. Thank you!
+call_taxi_singletask,275,I would like to book a taxi from El Shaddai to Little Saint Mary's Church. I would like to depart after 05:45. Please provide me with the car that will be picking me up and the contact number.
+call_taxi_singletask,276,I am requesting a taxi to depart from Parkside Police Station and arrive at Aylesbray Lodge Guest House by 18:15.
+call_taxi_singletask,277,I would like to request a taxi to pick me up at the Arbury Lodge Guesthouse at 15:00. I will be traveling from the guesthouse to Rajmahal. Thank you for your help.
+call_taxi_singletask,278,I would like to book a taxi from Curry King to the Museum of Classical Archaeology. I would like to leave after 10:15. I would like to know the car type and contact number as well.
+call_taxi_singletask,279,"I am requesting a taxi from Aylesbray Lodge Guest House to Ask by 12:15. I would like to be picked up at the guest house and taken to the tall monument, which is in Ask. I would like to confirm that a yellow taxi will be able to get me to Ask by 12:15."
+call_taxi_singletask,280,I would like to book a taxi from the Ely Train Station to the Chiquito Restaurant Bar. I need to be picked up at the Ely Train Station at the latest by 13:15.
+call_taxi_singletask,281,"I need a taxi from Rajmahal to Kohinoor. I would like to leave by 08:00, but it doesn't matter when I leave as long as I arrive by 14:00. Thank you for your help."
+call_taxi_singletask,282,I need a taxi to pick me up from Carolina Bed and Breakfast and take me to Ali Baba by 10:00. Please let me know the car type and contact number. Thank you for your help.
+call_taxi_singletask,283,I am requesting a taxi from Warkworth House to Jinling Noodle by 23:15. I would like to know the contact number and the car type of the taxi. Thank you for your time.
+call_taxi_singletask,284,I am requesting a taxi from Hakka to Sidney Sussex College. I would like to arrive at the college at 20:15.
+call_taxi_singletask,285,I need to book a taxi from Riverside Brasserie to Curry Prince. I would like to arrive by 24:00. I do not need any additional services.
+call_taxi_singletask,286,I need to book a taxi from Saigon City to Rosa's Bed and Breakfast after 17:45.
+call_taxi_singletask,287,I am requesting a taxi to Da Vinci Pizzeria. I would like to leave from Williams Art and Antiques after 5:45 PM and arrive at Da Vinci Pizzeria by 3:45 PM. Thank you for your help.
+call_taxi_singletask,288,I would like to request a taxi to pick me up from El Shaddai and take me to Gonville Hotel by 06:45. Please let me know the taxi type and their contact information. Thank you!
+call_taxi_singletask,289,I need a taxi to pick me up at La Margherita today after 2:00 PM. I am leaving from La Margherita and going to Avalon. Thank you very much!
+call_taxi_singletask,290,I need to book a taxi from Kings College to the Lensfield Hotel. I need to arrive by 10:00 and need the car type and contact number.
+call_taxi_singletask,291,I would like to book a taxi for 1:15 PM to go to Whale of a Time. I would like to be picked up at The Lucky Star. Please provide me with the contact number for the Lexus. Thank you for your help.
+call_taxi_singletask,292,I am requesting a taxi to go from Rajmahal to Queen's College at 1:30 pm. I would appreciate it if you could book the taxi for me. Thank you for your time.
+call_taxi_singletask,293,I would like to request a taxi from A and B Guest House to The Missing Sock. I need to be there by 14:15. Thank you.
+call_taxi_singletask,294,I would like to request a taxi that will pick me up at Wandlebury Country Park after 05:45 and drop me off at Curry Prince. Thank you for your help.
+call_taxi_singletask,295,I would like to book a taxi from Kings College to Pizza Express Fen Ditton sometime after 17:15. I would like to know the car type and contact number of the taxi.
+call_taxi_singletask,296,I would like to request a taxi to pick me up at All Saints Church at 3:45 PM. I need to go to Saigon City. Please provide me with the contact number for the taxi. Thank you!
+call_taxi_singletask,297,I am requesting a taxi to go from Cherry Hinton Water Play to Gandhi by 18:00. I would like the contact number of the taxi company.
+call_taxi_singletask,298,I am requesting a taxi from Pembroke College to Williams Art and Antiques. I would like to arrive at 1:30 PM. Please provide me with the contact number and the type of car. Thank you!
+call_taxi_singletask,299,I am interested in booking a taxi from Primavera to Christ's College by 07:15. I would like to know the contact number and car type.
+call_taxi_singletask,300,I am requesting a taxi from Ian Hong's house to Saint John's Chop House. I would like to arrive by 9:00 PM.
+call_taxi_singletask,301,I would like to request a taxi from Leverton House to Ugly Duckling. I need to arrive at Ugly Duckling by 23:30. Thank you for your help.
+call_taxi_singletask,302,I am requesting a taxi from Finches Bed and Breakfast to Ian Hong House. I need to arrive at Ian Hong House by 13:45. Please be here at 13:45. I would like to know your phone number and the type of car you will be driving. Thank you.
+call_taxi_singletask,303,I would like to request a taxi from Cambridge Arts Theatre to Peking Restaurant. I would like to leave after 12:15. Please let me know the car type and contact number. Thank you.
+call_taxi_singletask,304,"I would like to book a taxi to go from the Fez Club to the Lensfield Hotel. I would like to arrive by 13:00, but the time of departure does not matter. I would like to know the contact number and car type of the driver."
+call_taxi_singletask,305,I would like to book a taxi from Sesame Restaurant and Bar to St. John's Chop House. I would like to be picked up at 14:00. Please provide me with the contact number and car type for my booking query. Thank you.
+call_taxi_singletask,306,I would like to book a taxi for one person leaving from The Oak Bistro by 15:00 to go to La Mimosa. I would like to have the contact number for the taxi car.
+call_taxi_singletask,307,I would like to book a taxi from Parkside Pools to Saigon City. I would like to arrive by 24:45. I do not have any additional requests.
+call_taxi_singletask,308,I am looking to book a taxi departing from Loch Fyne after 11:00. I am heading to the Bridge Guest House.
+call_taxi_singletask,309,I am requesting a taxi to go to Club Salsa in Limehouse. I need to be there by 1:30 PM. I have already told you that I will be leaving from Limehouse. Thank you for your help.
+call_taxi_singletask,310,I need a taxi to Cambridge train station. I am currently at Kymmoy and need to be picked up at 21:30.
+call_taxi_singletask,311,I am requesting a taxi to go to Cote from Tandoori Palace by 20:45. I appreciate your quick response and I will not need any further assistance. Thank you and have a good evening.
+call_taxi_singletask,312,"I am currently in need of assistance from the police. I am unable to drive myself to the police station, so I would like to know the location of the nearest police station or the phone number of the police department so that they can come to me. Thank you for your help."
+call_taxi_singletask,313,"I am requesting a taxi from Bridge Guest House to Sidney Sussex College. I would like to know the type of car and the contact phone number. I do not care about the departure time, but the taxi should arrive by 07:15. Thank you for your help."
+call_taxi_singletask,314,I need to find a taxi that can pick me up in Cocum and take me to Gallery at Twelve a High Street by 15:00. I would like to know the car type and contact number of the taxi.
+call_taxi_singletask,315,I am requesting a taxi to go from Addenbrookes Hospital to Cambridge Punter after 08:15. I would like to know the contact number for the blue Toyota.
+call_taxi_singletask,316,I need a taxi to take me from Shiraz restaurant to Thanh Binh. I need to arrive before 22:15. Please provide me with the car type and contact number. Thank you.
+call_taxi_singletask,317,I need a taxi to take me from Travelers Rest to the Cambridge county fair next to the city tourist museum. I would like to leave after 16:45. Thank you for your help.
+call_taxi_singletask,318,"Hi, I am looking for a ride or taxi from Lovell lodge to Holy Trinity Church around 10:30. I would appreciate it if you could provide me with some options. Thank you!"
+call_taxi_singletask,319,I am Charlie Chan. I am requesting a taxi to Carolina Bed and Breakfast. I need to arrive there by 4:00 PM for my reservation. I have no other requests. Thank you.
+call_taxi_singletask,320,I am requesting a taxi from Lock Fyne to King's College. I need to arrive by 22:00.
+call_taxi_singletask,321,I would like to book a taxi from Backstreet Bistro to Cambridge Punter. I would like the taxi to depart after 21:15.
+call_taxi_singletask,322,I need a taxi from Great Saint Mary's Church to Coccum at 04:15. I would appreciate it if you could book a taxi for me. Thank you for your help.
+call_taxi_singletask,323,I would like to request a taxi from La Raza to Restaurant One Seven. I would like to leave after 11:45 AM. Thank you!
+call_taxi_singletask,324,I am requesting a cab from Arbury Lodge Guesthouse to Whale of a Time. I would like to leave after 13:00. I do not need anything else. Thank you for your time and have a great day.
+call_taxi_singletask,325,I would like to make a taxi reservation from Riverside Brasserie to Shanghai Family Restaurant. I would like to arrive at Shanghai Family Restaurant by 18:15. I need to know the car type and contact number of the taxi. Thank you.
+call_taxi_singletask,326,"I am requesting a taxi to arrive at Clare College by 20:00. I need to get to the Parkside Police Station to bail out my boyfriend, who has been arrested again."
+call_taxi_singletask,327,"I am looking for a taxi from Yu Garden to Holy Trinity Church. I need to arrive by 14:30. I would like to know the car type and contact number of the taxi. That's all, thank you."
+call_taxi_singletask,328,I need to book a taxi to arrive at Wagamama by 9:00 AM. I will be headed to the Mumford Theatre from there.
+call_taxi_singletask,329,I would like to get to Zizzi Cambridge after 22:45. I am currently at Saint Johns Chop shop house. Is there a contact number available? Thanks for your help.
+call_taxi_singletask,330,I need a taxi to arrive at the Cambridge Punter by 17:30. I will be departing from the City Stop restaurant.
+call_taxi_singletask,331,I would like to request a taxi to pick me up at Regency Gallery and take me to Don Pasquale Pizzeria. I would like to arrive by 20:00. Thank you.
+call_taxi_singletask,332,I need a taxi to be picked up at the Lensfield Hotel after 5:30 AM and taken to Don Pasquale Pizzeria.
+call_taxi_singletask,333,I would like a taxi to take me to the Ruskin Gallery from Saffron Brasserie at 7:15 pm. Please provide me with the car type and contact number so I know who and where you will pick me up. Thank you.
+call_taxi_singletask,334,I would like to book a taxi from Tenpin to Royal Standard. The taxi should depart after 03:30. I do not have any other requests.
+call_taxi_singletask,335,I am requesting a taxi from A and B Guest House to Saint Catherine's College. I would like to arrive by 6:00 AM.
+call_taxi_singletask,336,I am looking for a taxi to take me from Golden House to Soul Tree Nightclub at 12:15. I have no other requests. Thank you for your help.
+call_taxi_singletask,337,I am requesting a taxi from Arbury Lodge Guesthouse to Hughes Hall. I would like to leave after 15:15. Thank you!
+call_taxi_singletask,338,I would like to reserve a taxi that will pick me up at Cambridge Arts Theatre after 09:30. I would like to be taken to Restaurant One Seven. Please provide me with the contact number of the taxi company.
+call_taxi_singletask,339,I am requesting a taxi from Rice Boat to the Cambridge Museum of Technology. I would like the taxi to leave after 13:45.
+call_taxi_singletask,340,I need a taxi to pick me up at Ian Hong House by 14:45 to go to the Leicester Train Station. I would appreciate a quick response.
+call_taxi_singletask,341,I need a taxi to go from Grafton Hotel Restaurant to Jinling Noodle Bar. I would like to leave after 16:45.
+call_taxi_singletask,342,I am requesting a taxi from Saint John's College to Pizza Hut Fen Ditton. I would like to leave after 17:15. Thank you for your help.
+call_taxi_singletask,343,I need a taxi from Golden Wok to Holy Trinity Church after 17:30. I will look for a yellow Skoda taxi. Thank you for your help.
+call_taxi_singletask,344,I would like to book a taxi to take me from Gonville Hotel to Cineworld Cinema. I need to arrive by 15:45.
+call_taxi_singletask,345,I need a taxi to take me to Yippee Noodle Bar by 9:45 AM. The pickup location is The Rajmahal. Thank you! Goodbye!
+call_taxi_singletask,346,I need a taxi to Avalon after 16:15. I will be at Parkside Pools.
+call_taxi_singletask,347,I need to schedule a taxi from Tandoori Palace to Da Vinci Pizzeria after 22:15. I do not need any further assistance.
+call_taxi_singletask,348,I would like to request a taxi from Cafe Jello Gallery to The Junction after 12:30. I apologize for the confusion.
+call_taxi_singletask,349,I am requesting a taxi from Avalon to Little Saint Mary's Church after 11:00. I would like to know the estimated arrival time. Thank you.
+call_taxi_singletask,350,I would like to book a taxi from Cambridge and County Folk Museum to Trinity College. I need to arrive by 12:45. Please confirm the booking and let me know the estimated time of arrival.
+call_taxi_singletask,351,I would like to request a taxi to pick me up at Ashley Hotel after 10:45 AM. I need to get to Restaurant Two Two. Thank you.
+call_taxi_singletask,352,I need a taxi to take me from Ballare to Pipasha Restaurant. I would like to leave after 1:45 AM.
+call_taxi_singletask,353,I am requesting a taxi to pick me up from Pizza Express Fen Ditton and take me to Sidney Sussex College by 12:45.
+call_taxi_singletask,354,I need a taxi to pick me up from Parkside Police Station by 16:45 and take me to Stansted Airport Train Station. I do not need any other services at this time.
+call_taxi_singletask,355,I need a taxi from Jesus Green Outdoor Pool to Mahal of Cambridge after 2:30 PM. Please provide me with the contact number for the taxi.
+call_taxi_singletask,356,I would like to be picked up from Pizza Hut City Centre after 4:30 PM. I will be heading to Gonville Hotel. Thank you for your time.
+call_taxi_singletask,357,I need a taxi to go to Meghna at 7:15 pm leaving from the Yippee Noodle Bar.
+call_taxi_singletask,358,I am requesting a taxi from City Stop restaurant to Christ's College. I would like to leave after 2:15 pm. Thank you for your help.
+call_taxi_singletask,359,I am requesting to book a taxi from Gandhi to Broxbourne Train Station. I need to arrive by 2:00 AM. I do not need any additional services.
+call_taxi_singletask,360,I am requesting a taxi to be booked for me at 13:45 from the Royal Spice to Kirkwood House. I would like to thank you in advance for your assistance.
+call_taxi_singletask,361,I need a taxi from the Missing Sock to El Shaddai by 8:30 AM. I would also like the contact number of the taxi driver.
+call_taxi_singletask,362,I need a taxi to be picked up at Williams Art and Antiques and taken to Restaurant Two Two by 5:15.
+call_taxi_singletask,363,I am looking to book a taxi from the missing sock to the lucky star. I would like to leave after 17:15 and need the car type and contact number.
+call_taxi_singletask,364,I am requesting to book a taxi from Sheep's Green and Lammas land park fen causeway to Oak Bistro. I would like to arrive by 16:45. I need the contact number and car type of the taxi.
+call_taxi_singletask,365,I would like to request a taxi to pick me up at Dojo Noodle Bar by 12:15. My destination is Rosa's Bed and Breakfast. Thank you.
+call_taxi_singletask,366,"I would like to book a taxi from Gourmet Burger Kitchen to Stevenage Train Station. I need to arrive at the station by 02:15, so please book the earliest available taxi. Thank you for your help."
+call_taxi_singletask,367,I am at Ballare and need a taxi to take me to Hobsons House by 17:45. I would appreciate your help.
+call_taxi_singletask,368,I am requesting a taxi from Avalon to De Luca Cucina and Bar. I would like to arrive at De Luca by 07:30. It doesn't matter when I leave. I appreciate your help.
+call_taxi_singletask,369,I would like to book a taxi from London Kings Cross Train Station to the Scott Polar Museum at 3:00 PM. I would like to know the contact phone number and the car type to expect.
+call_taxi_singletask,370,I would like to book a taxi from the Gardenia to Arbury Lodge Guesthouse after 11:00.
+call_taxi_singletask,371,I need to get to Michaelhouse Cafe by 12:45. I would like to take a taxi from Williams Art and Antiques. I am happy with the price and everything is fine.
+call_taxi_singletask,372,I need a taxi to go from Lovell Lodge to Saigon City. I need to arrive by 11:00.
+call_taxi_singletask,373,I am requesting a taxi from Riverboat Georgina to Nandos after 09:45.
+call_taxi_singletask,374,I am requesting a taxi to pick me up at Funky Fun House and take me to Huntingdon Marriott Hotel. I would prefer to leave after 9:15 AM.
+call_taxi_singletask,375,I need a taxi to go from Sesame Restaurant and Bar to Backstreet Bistro by 19:30.
+call_taxi_singletask,376,"I would like to request a taxi to pick me up from Alexander Bed and Breakfast at 11:00 AM today. My destination is Rice House, and I would like to arrive by noon. Thank you."
+call_taxi_singletask,377,I would like to book a taxi from Milton Country Park to Gonville Hotel after 1:15 pm. I need the car type and contact number. Thank you for your help.
+call_taxi_singletask,378,I am trying to book a taxi from Cambridge University Botanic Gardens to Pizza Hut Cherry Hinton. I would like to leave after 9:45. Please let me know the car type and contact number.
+call_taxi_singletask,379,I would like to book a taxi to depart from Maharajah Tandoori Restaurant by 02:00 and take me to Sidney Sussex College.
+call_taxi_singletask,380,I am requesting a taxi to pick me up at Wandlebury Country Park after 7:30 PM and take me to Meze Bar Restaurant. I do not need the contact number for the taxi.
+call_taxi_singletask,381,I am requesting a taxi to pick me up at the museum of classical archaeology and take me to ugly duckling by 9:00. I would like to know the contact number for the taxi service.
+call_taxi_singletask,382,I would like to book a taxi to go from La Tasca to Sitar Tandoori. I would like to leave after 19:30.
+call_taxi_singletask,383,I am requesting a taxi from Royal Standard to University Arms Hotel. I need to arrive there by 15:45.
+call_taxi_singletask,384,I am requesting a taxi from Cambridge train station to Travellers Rest. I need to arrive at Travellers Rest by 11:45.
+call_taxi_singletask,385,I am requesting a taxi to pick me up at Darry's Cookhouse and Wine Shop sometime after 4:00 AM. I would like to go to Alexander Bed and Breakfast. I don't need anything else at this time.
+call_taxi_singletask,386,I am requesting a taxi to take me from Ashley Hotel to Dojo Noodle Bar. I would like to leave the hotel after 7:00 PM. Thank you for your help.
+call_taxi_singletask,387,I am requesting a taxi from Ugly Duckling to Ely Train Station after 1:00 AM.
+call_taxi_singletask,388,I am requesting a taxi to pick me up from Old Schools and take me to Loch Fyne. I need to leave after 11:00. I would appreciate the contact number so I can call the taxi company when I am ready to leave. Thank you.
+call_taxi_singletask,389,"I need a taxi from La Tasca to the Museum of Classical Archaeology. I would like to leave after 15:15, but it does not matter when I arrive."
+call_taxi_singletask,390,I am requesting a taxi to pick me up from Curry Prince and take me to Sidney Sussex College. I need to arrive by 12:15. Please let me know what kind of car to expect and a number they can be reached at. Thank you.
+call_taxi_singletask,391,I would like to book a taxi from Cow Pizza Kitchen and Bar to Bishops Stortford Train Station after 17:15. Please confirm my booking and send me the contact number and car type. I would also like to know the estimated time of arrival.
+call_taxi_singletask,392,I am requesting a taxi to pick me up at Trinity College after midnight. I will be headed to Saffron Brasserie. I would like to know the car type and contact number of the taxi. I do not need a restaurant recommendation.
+call_taxi_singletask,393,I would like to request a taxi from the Museum of Archaeology and Anthropology to the Soul Tree Nightclub. I would like the taxi to arrive by 2:30 AM. I would also like to know the contact information for the driver. Thank you.
+call_taxi_singletask,394,I am requesting a taxi from Cafe Jello Gallery to Carolina Bed and Breakfast. I will be leaving after 7pm. Thank you for your help.
+call_taxi_singletask,395,I am at Saint John's College and I need a taxi to pick me up at 18:45 to go to La Margherita.
+call_taxi_singletask,396,I would like to request a taxi to pick me up from Frankie and Bennys at 19:30 and take me to Cafe Uno. I need to arrive at Cafe Uno by 19:30. Thank you.
+call_taxi_singletask,397,I am requesting a taxi from Restaurant Two Two to the Museum of Classical Archaeology. I need to be picked up by 11:00.
+call_taxi_singletask,398,I need a taxi departing from Alimentum and arriving at Ali Baba by 03:15.
+call_taxi_singletask,399,I am requesting a taxi booking to Nandos at the London Museum by 23:15. The taxi will depart from the place.
+call_taxi_singletask,400,I am requesting a taxi to take me to the Museum of Archaeology and Anthropology. I need to arrive by 4:45 PM. I am departing from The Missing Sock.
+call_taxi_singletask,401,I am requesting a taxi from Clowns Cafe to Primavera. I would like to leave at 22:00.
+call_taxi_singletask,402,I am requesting a taxi from my home to the River Bar Steakhouse and Grill. I am hungry and would like to arrive at the restaurant by 10:00. Please arrange for a taxi to pick me up as soon as possible.
+call_taxi_singletask,403,I am requesting a taxi to take me from Leverton House to the Cow Pizza Kitchen and Bar by 04:30.
+call_taxi_singletask,404,I would like to request a taxi from the Gandhi to the ADC Theatre. I would like to leave after 15:45. I do not need anything else.
+call_taxi_singletask,405,"I need a taxi from Archway House to Curry Garden, and I need to arrive by 19:00."
+call_taxi_singletask,406,I need a taxi from Scudamores Punting Co to The Slug and Lettuce after 21:00. Thank you.
+call_taxi_singletask,407,I am requesting a taxi to pick me up from the fez club and take me to tenpin by 18:45.
+call_taxi_singletask,408,I need a taxi from Kymmoy to Anatolia after 22:00.
+call_taxi_singletask,409,I am requesting a taxi from Jinling Noodle Bar to Dojo Noodle Bar. I am on a noodle bar crawl and would like the taxi to leave after 11:15. Thank you for your help!
+call_taxi_singletask,410,I would like to book a taxi from Broughton House Gallery to Downing College. The taxi should arrive after 22:30.
+call_taxi_singletask,411,I am requesting a taxi to pick me up from the gallery at Twelve A High Street and take me to the Nirala by 15:30. I do not need anything else. Thank you!
+call_taxi_singletask,412,I am requesting a taxi from Hobsons House to Royal Spice. I would like to leave after 18:30. Thank you.
+call_taxi_singletask,413,I am requesting a taxi to pick me up from Express by Holiday Inn Cambridge at 07:30 AM. I would like to be taken to The Oak Bistro.
+call_taxi_singletask,414,I would like to book a taxi to go to Cherry Hinton Water Play. I would like to be picked up from Golden House by 10:00.
+call_taxi_singletask,415,I am looking for a taxi from Thanh Binh to Old Schools. I need to arrive by 11:15. I do not need any other assistance. Thank you.
+call_taxi_singletask,416,I am requesting a taxi to pick me up at the Cambridge Belfy and take me to the Cambridge Chop House. I would like to leave after 10:30.
+call_taxi_singletask,417,I am requesting a taxi from the Saffron Brasserie to the Good Luck Chinese Food Takeaway after 14:45. I appreciate your help and hope you have a great day.
+call_taxi_singletask,418,I am requesting a taxi from Hamilton Lodge to Gourmet Burger Kitchen. I would like to leave after 4:00 PM. The time of departure is flexible. Thank you.
+call_taxi_singletask,419,I am requesting a taxi to depart from Rajmahal at 22:30 and head to restaurant two two.
+call_taxi_singletask,420,"I need a taxi to pick me up from Sitar Tandoori and take me to Clare Hall after 10:30. I need the car type and contact number. I don't have a specific time, just need to leave after 10:30."
+call_taxi_singletask,421,I would like to book a taxi to Vue Cinema. I would like to leave after 08:30 from La Mimosa. I will be leaving from La Mimosa. Thank you.
+call_taxi_singletask,422,I would like to book a taxi to go from Hotel du Vin and Bistro to Sitar Tandoori. The taxi should depart after 22:30.
+call_taxi_singletask,423,I would like to request a taxi to arrive at 09:00 at the Riverboat Georgina. I am leaving from the Riverboat Georgina and my destination is Pizza Hut City Centre. Please provide me with the contact number. Thank you for your help!
+call_taxi_singletask,424,I am requesting a taxi from Stevenage Train Station to Worth House after 24:45. I do not need any additional services. Thank you and have a nice day!
+call_taxi_singletask,425,I am requesting a taxi to arrive at Jesus College by 18:00. I will be leaving Jesus College and going to the Scott Polar Museum. Thank you.
+call_taxi_singletask,426,I would like to book a taxi from Cote to Anatoilia. I would like to arrive at Anatoilia by 09:15.
+call_taxi_singletask,427,I would like to book a taxi to Soul Tree Nightclub after 3:30 PM. I would like to be picked up from Soul Tree Nightclub and taken to Tenpin. Thank you.
+call_taxi_singletask,428,I need to find a taxi to Jesus Green Outdoor Pool by 2:15 PM. I need to be picked up from Williams Art and Antiques.
+call_taxi_singletask,429,I am requesting a taxi from Peking restaurant to Huntington Marriott Hotel. I would like to arrive at the hotel by 20:00. Thank you for your assistance.
+call_taxi_singletask,430,I am requesting a taxi to take me from Cafe Uno to Churchill College. I need to arrive by 12:30 AM. I would also like the contact number of the taxi driver. Thank you for your help.
