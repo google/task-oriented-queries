@@ -6,7 +6,7 @@
 * toqb_2023_taxi_s.json for Taxi(S) domain
 * toqb_2023_taxi_m.json for Taxi(M) domain
 
-## Merged data files in JSON
+## Merged data file(s) in JSON
 
 * toqb_2023_taxi_sm.json for both Taxi(S) and Taxi(M) domains
 
